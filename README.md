@@ -62,7 +62,7 @@ Navigate between Page 1, Page 2, Page 3 at the bottom.
 
 Note: For the best experience, open it in Power BI Desktop (not the web version) to see the full designed layout and interactions.
 
-##📸 Screenshots
+## 📸 Screenshots
 (Add your screenshots in a screenshots/ folder)
 
 ![Final Designed Dashboard](https://github.com/akshaymamidala/PhonePe-Dataset-Analytics/blob/main/Final_Dashboard.jpg)
@@ -70,7 +70,7 @@ Note: For the best experience, open it in Power BI Desktop (not the web version)
 ![Figma Design Screens](https://github.com/akshaymamidala/PhonePe-Dataset-Analytics/blob/main/Dashboard.png)
 
 
-##🎨 Design Philosophy
+## 🎨 Design Philosophy
 "Perfection matters" — Every element was carefully designed in Figma to match PhonePe’s branding before implementing in Power BI.
 
 🙏 Acknowledgements
