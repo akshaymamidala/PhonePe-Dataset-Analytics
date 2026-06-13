@@ -2,7 +2,7 @@
 
 An interactive business intelligence dashboard for **PhonePe** — India's leading digital payments platform. Designed with pixel-perfect UI in Figma and built in Power BI.
 
-![PhonePe Dashboard]([https://github.com/akshaymamidala/phonepe-dashboard/blob/main/screenshots/Final_Dashboard.jpg])
+![PhonePe Dashboard]([Final_Dashboard.jpg])
 
 ---
 
