@@ -83,10 +83,3 @@ Inspired by PhonePe’s real-world data patterns.
 Feedback and suggestions are always welcome!
 
 Made with ❤️ using Power BI & Figma
-
-### How to use:
-1. Copy the entire content above.
-2. Create a new file in your GitHub repo named `README.md`.
-3. Paste it.
-4. Replace `yourusername` with your actual GitHub username.
-5. Add your actual screenshots in a `screenshots` folder and update the image links.
