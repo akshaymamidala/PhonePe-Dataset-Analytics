@@ -65,9 +65,9 @@ Note: For the best experience, open it in Power BI Desktop (not the web version)
 ##📸 Screenshots
 (Add your screenshots in a screenshots/ folder)
 
-Final Designed Dashboard
-Power BI Implementation View
-Figma Design Screens
+![Final Designed Dashboard](https://github.com/akshaymamidala/PhonePe-Dataset-Analytics/blob/main/Final_Dashboard.jpg)
+![Power BI Implementation View](https://github.com/akshaymamidala/PhonePe-Dataset-Analytics/blob/main/pb.jpg)
+![Figma Design Screens](https://github.com/akshaymamidala/PhonePe-Dataset-Analytics/blob/main/Dashboard.png)
 
 
 ##🎨 Design Philosophy
